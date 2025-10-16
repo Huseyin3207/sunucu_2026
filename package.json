@@ -1,0 +1,24 @@
+{
+  "name": "sunucu_2026",
+  "version": "1.0.0",
+  "description": "Sunucu tabanlı programlama dersi 2026",
+  "main": "index.js",
+  "scripts": {
+     "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huseyin3207/sunucu_2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Huseyin3207/sunucu_2026/issues"
+  },
+  "homepage": "https://github.com/Huseyin3207/sunucu_2026#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
